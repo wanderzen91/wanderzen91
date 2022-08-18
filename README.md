@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @wanderzen
 - 👀 I’m interested in hydrobiology, sports, vanlife and geomatics
-- 🌱 I’m currently learning python, django and javascript
+- 🌱 I’m currently learning python & django and javascript
 
 <!---profile introduction examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme--->
 <!---

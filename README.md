@@ -23,5 +23,10 @@ You can click the Preview link to take a look at your changes.
  
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=wanderzen91&theme=nightowl&count_private=true&show_icons=true)](https://github.com/wanderzen91/github-readme-stats)
 
-
-
+<!---
+ <img height ="60px" idth = "60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ <img height ="60px" idth = "60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
+ <img height ="60px" idth = "60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+ <img height ="60px" idth = "60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height ="60px" idth = "60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+   <img height ="60px" idth = "60px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />--->

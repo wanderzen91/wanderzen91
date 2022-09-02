@@ -12,7 +12,7 @@
 
 - 👋 I’m @wanderzen, GIS developper from **Périgueux, France**
 - 👀 I’m interested in hydrobiology, sports, vanlife and flyfishing
-- 🌍 I've lived in **Göteborg, Sweden** 🇸🇪 , **New-Zealand 🇳🇿** , **Bucarest, Romania 🇷🇴** 
+- 🌍 I've lived in **Göteborg, Sweden** 🇸🇪 , **New-Zealand 🇳🇿**  and **Bucarest, Romania 🇷🇴** 
 
 <!---
 | - | - |

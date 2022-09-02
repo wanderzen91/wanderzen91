@@ -1,8 +1,38 @@
-<center><img src=https://raw.githubusercontent.com/wanderzen91/wanderzen91/main/name.svg></center> 
+<p align="center">
+<img src=https://raw.githubusercontent.com/wanderzen91/wanderzen91/main/name.svg>
+<br>
+<br>
+</p>
+
+</p>
+<p align="center">
+<a href="https://github.com/wanderzen91">
+  <img align="center" src="https://komarev.com/ghpvc/?username=wanderzen91&style=flat-square&color=green" />
+</a>
+<br>
+<br>
+</p>
 
 - 👋 I’m @wanderzen, GIS developper from *Périgueux, France*
 - 👀 I’m interested in hydrobiology, sports, vanlife and flyfishing
 - 🌍 I've lived in **Göteborg, Sweden** 🇸🇪, **New-Zealand 🇳🇿**, **Bucarest, Romania 🇷🇴** and I would love to live in Japan 🇯🇵 for a couple of years someday !
+
+<p align="center">
+<a href="https://www.linkedin.com/in/romain-montillet-712436b2">
+  <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
+</a>
+</p>
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+Normal text
 
 ## Working with :
 
@@ -28,12 +58,6 @@ wanderzen91/wanderzen91 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://www.linkedin.com/in/romain-montillet-712436b2">
-  <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
-</a>
-<a href="https://github.com/wanderzen91">
-  <img align="center" src="https://komarev.com/ghpvc/?username=wanderzen91&style=flat-square&color=green" />
-</a>
 
 
 ![](https://raw.githubusercontent.com/wanderzen91/github-stats/master/generated/overview.svg#gh-light-mode-only)

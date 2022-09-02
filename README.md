@@ -11,7 +11,7 @@
 </p>
 
 - 👋 I’m @wanderzen, GIS developper from **Périgueux, France**
-- 👀 I’m interested in hydrobiology, sports, vanlife and flyfishing
+- 👀 I’m interested in hydrobiology, sports, vanlife, mangas and flyfishing
 - 🌍 I've lived in **Göteborg, Sweden** 🇸🇪 , **New-Zealand 🇳🇿**  and **Bucarest, Romania 🇷🇴** 
 
 <!---

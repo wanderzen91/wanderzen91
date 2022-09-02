@@ -1,8 +1,26 @@
 <center><img src=https://raw.githubusercontent.com/wanderzen91/wanderzen91/main/name.svg></center> 
 
-- 👋 Hi, I’m @wanderzen
-- 👀 I’m interested in hydrobiology, sports, vanlife and geomatics
-- 🌱 I’m currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+- 👋 I’m @wanderzen, GIS developper from *Périgueux, France*
+- 👀 I’m interested in hydrobiology, sports, vanlife and flyfishing
+- 🌍 I've lived in **Göteborg, Sweden** 🇸🇪, **New-Zealand 🇳🇿**, **Bucarest, Romania 🇷🇴** and I would love to live in Japan 🇯🇵 for a couple of years someday !
+
+## Working with :
+
+![QGIS](https://img.shields.io/badge/QGIS-white?style=for-the-badge&logo=QGIS&logoColor=green) 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
+
+![Markdown](https://img.shields.io/badge/Markdown-CA4245?style=for-the-badge&logo=markdown&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-5e34eb?&style=for-the-badge&logo=css3&logoColor=white)
+
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	
+
+## Wanting to learn :
+
+![Django](https://img.shields.io/badge/django-%3670A0.svg?style=for-the-badge&logo=django&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 
 <!---profile introduction examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme--->
 <!---

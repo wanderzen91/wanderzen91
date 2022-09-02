@@ -19,18 +19,14 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/romain-montillet-712436b2">
-  <img align="center" src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" />
 </a>
 </p>
 
+
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
 </p>
+
 
 Normal text
 

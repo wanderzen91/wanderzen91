@@ -10,9 +10,9 @@
 </a>
 </p>
 
-- 👋 I’m @wanderzen, GIS developper from *Périgueux, France*
+- 👋 I’m @wanderzen, GIS developper from **Périgueux, France**
 - 👀 I’m interested in hydrobiology, sports, vanlife and flyfishing
-- 🌍 I've lived in **Göteborg, Sweden** 🇸🇪, **New-Zealand 🇳🇿**, **Bucarest, Romania 🇷🇴** <br> and I would love to live in Japan 🇯🇵 for a couple of years someday !
+- 🌍 I've lived in **Göteborg, Sweden** 🇸🇪 , **New-Zealand 🇳🇿** , **Bucarest, Romania 🇷🇴** <br> and I would love to live in Japan 🇯🇵 for a couple of years someday !
 
 <!---
 | - | - |
@@ -115,6 +115,10 @@
 ![CSS](https://img.shields.io/badge/CSS-5e34eb?&style=for-the-badge&logo=css3&logoColor=white)
 
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	
+
+<!--
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+-->
 
 ## 💻 Wanting to learn :
 

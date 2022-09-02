@@ -25,7 +25,6 @@
 </p>
 
 
-
 ## Working with :
 
 ![QGIS](https://img.shields.io/badge/QGIS-white?style=for-the-badge&logo=QGIS&logoColor=green) 
@@ -58,6 +57,78 @@ You can click the Preview link to take a look at your changes.
  
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=wanderzen91&theme=nightowl&count_private=true&show_icons=true)](https://github.com/wanderzen91/github-readme-stats)
 
+<!---
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#2288db",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7147979736328124,
+          45.17610769192394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f23f0b",
+        "marker-size": "medium",
+        "marker-symbol": "heart",
+        "Lived in": "August 2013 - August 2014 "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.992639303207397,
+          57.68850608253628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#fb1b02",
+        "marker-size": "medium",
+        "marker-symbol": "heart",
+        "Lived in": "October 2016 - July 2017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.38985443115234,
+          -44.84978409162812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f81105",
+        "marker-size": "medium",
+        "marker-symbol": "heart",
+        "Lived in": "August 2018 - April 2019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.102378368377686,
+          44.434323776899035
+        ]
+      }
+    }
+  ]
+}
+```
+--->
 <!---
  <img height ="60px" idth = "60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
  <img height ="60px" idth = "60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />

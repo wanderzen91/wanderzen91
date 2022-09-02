@@ -4,13 +4,10 @@
 <br>
 </p>
 
-</p>
+
 <p align="center">
 <a href="https://github.com/wanderzen91">
-  <img align="center" src="https://komarev.com/ghpvc/?username=wanderzen91&style=flat-square&color=green" />
 </a>
-<br>
-<br>
 </p>
 
 - 👋 I’m @wanderzen, GIS developper from *Périgueux, France*
@@ -24,11 +21,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true" alt="Sublime's custom image"/>
+  <img align="center" src="https://github.com/wanderzen91/wanderzen91/blob/main/homemade_gif.gif" />
 </p>
 
 
-Normal text
 
 ## Working with :
 

@@ -10,7 +10,7 @@
 </a>
 </p>
 
-- 👋 I’m @wanderzen, GIS developper from **Périgueux, France**
+- 👋 I’m @wanderzen, GIS specialist and padawan developer from **Périgueux, France**
 - 👀 I’m interested in hydrobiology, sports, vanlife, mangas and flyfishing
 - 🌍 I've lived in **Göteborg, Sweden** 🇸🇪 , **New-Zealand 🇳🇿**  and **Bucarest, Romania 🇷🇴** 
 

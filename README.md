@@ -143,8 +143,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![](https://raw.githubusercontent.com/wanderzen91/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
+![Wanderzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderzen91&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderzen91&theme=tokyonight)
  
 [![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/api?username=wanderzen91&theme=nightowl&count_private=true&show_icons=true)](https://github.com/wanderzen91/github-readme-stats)

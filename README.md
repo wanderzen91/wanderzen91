@@ -141,9 +141,13 @@ wanderzen91/wanderzen91 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
+<!--- https://github.com/Ashutosh00710/github-readme-activity-graph --->
+[![Wanderzen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wanderzen91&theme=tokyo-night)](https://github.com/Wanderzen91/github-readme-activity-graph)
 
 ![Wanderzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderzen91&show_icons=true&theme=tokyonight)
+
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wanderzen91&theme=shades-of-purple&hide_border=true&border_radius=50&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanderzen91&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

@@ -5,7 +5,7 @@
 </p>
 --->
 
-![Wanderzen's card name](https://cardivo.vercel.app/api?name=Wanderzen&description=%20%F0%9F%91%8B%20I’m%20@wanderzen,%20GIS%20specialist%20and%20padawan%20developer%20from%20Périgueux,%20France&image=https://avatars.githubusercontent.com/u/103043914?s=400&u=11638e44cecbf249c163bf79530a155aab75e3ff&v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=d4bcba&github=Wanderzen91&linkedin=Romain%20Montillet)
+![Wanderzen's card name](https://cardivo.vercel.app/api?name=Wanderzen&description=%20%F0%9F%91%8B%20I’m%20@wanderzen,%20GIS%20specialist%20and%20padawan%20developer%20from%20Périgueux,%20France&image=https://avatars.githubusercontent.com/u/103043914?s=400&u=11638e44cecbf249c163bf79530a155aab75e3ff&v=4&backgroundColor=%23ecf0f1&pattern=topography&colorPattern=d4bcba&github=Wanderzen91)
 
 <p align="center">
 <a href="https://github.com/wanderzen91">

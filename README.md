@@ -135,6 +135,8 @@
   <img align="center" src="https://github.com/wanderzen91/wanderzen91/blob/main/homemade_gif.gif" />
 </p>
 
+## 📊 Stats :
+
 <!---profile introduction examples: https://github.com/abhisheknaiidu/awesome-github-profile-readme--->
 <!---
 wanderzen91/wanderzen91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -142,7 +144,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!--- https://github.com/Ashutosh00710/github-readme-activity-graph --->
-[![Wanderzen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wanderzen91&theme=tokyo-night)](https://github.com/Wanderzen91/github-readme-activity-graph)
+<!---  [![Wanderzen's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wanderzen91&theme=tokyo-night)](https://github.com/Wanderzen91/github-readme-activity-graph) --->
 
 ![Wanderzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=wanderzen91&show_icons=true&theme=tokyonight)
 

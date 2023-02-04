@@ -35,9 +35,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#2288db",
-        "marker-size": "medium",
-        "marker-symbol": "marker"
+        "Current location": ""
       },
       "geometry": {
         "type": "Point",
@@ -50,10 +48,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f23f0b",
-        "marker-size": "medium",
-        "marker-symbol": "heart",
-        "Lived in": "August 2013 - August 2014 "
+        "International Master of Ecotoxicology": "August 2013 - August 2014 "
       },
       "geometry": {
         "type": "Point",
@@ -66,10 +61,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#fb1b02",
-        "marker-size": "medium",
-        "marker-symbol": "heart",
-        "Lived in": "October 2016 - July 2017"
+        "Working Holiday Visa": "October 2016 - July 2017"
       },
       "geometry": {
         "type": "Point",
@@ -82,10 +74,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#f81105",
-        "marker-size": "medium",
-        "marker-symbol": "heart",
-        "Lived in": "August 2018 - April 2019"
+        "Working ": "August 2018 - April 2019"
       },
       "geometry": {
         "type": "Point",
@@ -93,6 +82,45 @@
           26.102378368377686,
           44.434323776899035
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Bachelor Degree in Biology": "2009 - 2013 "
+      },
+      "geometry": {
+        "coordinates": [
+          -0.5991921047788935,
+          44.80737066688013
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Master in Hydrobiology": "2014 - 2015"
+      },
+      "geometry": {
+        "coordinates": [
+          1.4677910231229419,
+          43.56243927233882
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Master in GIS": "2019 - 2020"
+      },
+      "geometry": {
+        "coordinates": [
+          1.4901572469975122,
+          43.53567114510949
+        ],
+        "type": "Point"
       }
     }
   ]

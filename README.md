@@ -140,8 +140,10 @@
 
 ![QGIS](https://img.shields.io/badge/QGIS-white?style=for-the-badge&logo=QGIS&logoColor=green) 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Django](https://img.shields.io/badge/django-%3670A0.svg?style=for-the-badge&logo=django&logoColor=white) 
+
+![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/Markdown-CA4245?style=for-the-badge&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)

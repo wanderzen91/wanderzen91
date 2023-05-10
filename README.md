@@ -148,8 +148,6 @@
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-5e34eb?&style=for-the-badge&logo=css3&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	
 ![SQL2](https://img.shields.io/badge/PostGIS-0DBD8B?style=for-the-badge&logo=postgresql&logoColor=white)
 
@@ -160,6 +158,8 @@
 ## 💻 Wanting to learn :
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## ❤️ My best friend in programming :
 

@@ -46,17 +46,15 @@
 ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 	
 ![SQL2](https://img.shields.io/badge/PostGIS-0DBD8B?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Stack](https://img.shields.io/badge/stackoverflow-FFA116?style=for-the-badge&logo=stackoverflow&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 👶 Learning :
 
-![Django](https://img.shields.io/badge/django-%3670A0.svg?style=for-the-badge&logo=django&logoColor=white) 
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 
 ## 💻 Wanting to learn :
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/django-%3670A0.svg?style=for-the-badge&logo=django&logoColor=white) 
 
 ## ❤️ My best friend in programming :
 

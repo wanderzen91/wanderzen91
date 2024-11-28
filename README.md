@@ -40,6 +40,7 @@
 ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/Markdown-CA4245?style=for-the-badge&logo=markdown&logoColor=white)
+
 ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-5e34eb?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -49,6 +50,7 @@
 ![SQL4](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 ![Debian](https://img.shields.io/badge/debian-red?style=for-the-badge&logo=debian&logoColor=orange&color=darkred)
 
 ## 👶 Learning :
